@@ -683,5 +683,5 @@ body{
 	font-size: 15px;
 }
 .animated-modal{
-	overflow: hidden;
+	display: none;
 }
