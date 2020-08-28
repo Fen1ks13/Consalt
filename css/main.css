@@ -682,3 +682,6 @@ body{
 .about__us{
 	font-size: 15px;
 }
+.animated-modal{
+	overflow: hidden;
+}
